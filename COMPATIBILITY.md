@@ -915,7 +915,7 @@ This library is verified to work with following banks.
 - [ ] Sparkasse Mülheim a.d. Ruhr 
 - [ ] Sparkasse Münden
 - [ ] Sparkasse Neckartal-Odenwald
-- [ ] Sparkasse Neu-Ulm-Illertissen
+- [x] Sparkasse Neu-Ulm-Illertissen
 - [ ] Sparkasse Neubrandenburg-Demmin
 - [ ] Sparkasse Neuburg-Rain
 - [ ] Sparkasse Neumarkt i.d.OPf.-Parsberg
